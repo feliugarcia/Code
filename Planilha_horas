@@ -1,0 +1,60 @@
+Mes	Dia	Horas extra	Tarefas
+Janeiro	1 feriado	8 horas	Platinum Exadata cabeamento e regra
+Janeiro	2 sab	15 horas	Cabeamento de cartões e configuração de portas no SW
+Janeiro	3 dom	9 horas	Platinum Exadata cabeamento e regra
+Janeiro	4		
+Janeiro	5		
+Janeiro	6		
+Janeiro	7		
+Janeiro	8		
+Janeiro	9 sab		
+Janeiro	10 Dom		
+Janeiro	11		Sem horas extras
+Janeiro	12	1 hora	Falha de rede no acesso ao Exadata
+Janeiro	13	2 horas	Falha de rede no acesso ao Exadata
+Janeiro	14	1 hora	Cabeamento de cartões e configuração de porta CTC
+Janeiro	15	1 hora	Cabeamento de cartões e configuração de porta CTC
+Janeiro	16 Sab	8 horas	Cabeamento M6 DTC
+Janeiro	17 dom	8 horas	Configuração PCIe IO Domain, planejamneto para migração.
+Janeiro	18		Sem horas extras
+Janeiro	19	1,5 horas	Erro de uplink exadata
+Janeiro	20	1,5 horas	Portas de SW para migração (Reunião com TP)
+Janeiro	21	6 horas	Cabeamento bkp IO Domain (Configuração de interface)
+Janeiro	22		Sem horas extras
+Janeiro	23 sab	-	
+Janeiro	24 dom	8 horas	
+Janeiro	25	2,5 horas	Falha de HBA PCIe7 e 15
+Janeiro	26		Sem horas extras
+Janeiro	27	2 horas	Reunião de planejamento IO Domain (ceptiBR)
+Janeiro	28	Sem horas extras	
+Janeiro	29	8 horas	Porta Down do servidor dadpcadmux004
+Janeiro	30 sab	8 horas	Fim de semana
+Janeiro	31 dom	8 horas	Fim de semana
+Fevereiro	1		Dia livre
+Fevereiro	2	2 horas	Planejamento iO Domain - Reunião de configuração de VLAN 
+Fevereiro	3	1 hora	remoção de interface PCIe depopis das 19:00 horas
+Fevereiro	4	1,5 horas	Cabeamento PCN IO Domain
+Fevereiro	5		Sem horas extras
+Fevereiro	6 sab	-	
+Fevereiro	7 dom 	-	
+Fevereiro	8	1,5 horas	Ajuste de cabeamnto (Portas de SW q não polam)
+Fevereiro	9	2 horas	Reunião IODomain
+Fevereiro	10	1 hora	Preparar criação IO Domain
+Fevereiro	11	1 hora	Preparar criação IO Domain
+Fevereiro	12	1 hora	Preparar criação IO Domain
+Fevereiro	13 sab	15 horas	Configuração de servidor Solaris IO domain (janela)
+Fevereiro	14 dom	8 horas	Configuração de servidor Solaris IO domain (janela)
+Fevereiro	15		Sem horas extras
+Fevereiro	16		Dia livre
+Fevereiro	17	1 hora	T5-8 Parada servidor
+Fevereiro	18	1 hora	T5-8 chamdo MOS
+Fevereiro	19	4 horas	Reboot T5-8
+Fevereiro	20 sab		
+Fevereiro	21 dom		
+Fevereiro	22	1 hora	Ilom exadata travado
+Fevereiro	23	1 hora	Documentação exadata
+Fevereiro	24	1 hora	Reboot dadgerenux0005 Reunião ajuste de HBA
+Fevereiro	25		Sem horas extras
+Fevereiro	26	2 horas	Configuração de xML p/ reboot
+Fevereiro	27 sab	8 horas	Reboot dadgerenux0005
+Fevereiro	28 dom	8 horas	Levantamento de Luns
